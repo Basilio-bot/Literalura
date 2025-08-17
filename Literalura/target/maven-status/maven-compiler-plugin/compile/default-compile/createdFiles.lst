@@ -1,0 +1,9 @@
+com\literalura\demo\DemoApplication.class
+com\literalura\demo\dto\LivroDTO.class
+com\literalura\demo\service\CatalogoService.class
+com\literalura\demo\model\Livro.class
+com\literalura\demo\service\GutendexService.class
+com\literalura\demo\model\Autor.class
+com\literalura\demo\repository\LivroRepository.class
+com\literalura\demo\repository\AutorRepository.class
+com\literalura\demo\dto\AutorDTO.class
