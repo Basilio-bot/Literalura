@@ -51,24 +51,7 @@ src/
 │   │       └── DemoApplication.java
 │   └── resources/
 │       └── application.properties
-📌 Exemplo de JSON da API
-A resposta da Gutendex (para parsing em LivroDTO):
 
-json
-{
-  "results": [
-    {
-      "title": "Dom Casmurro",
-      "authors": [{"name": "Machado de Assis", "birth_year": 1839, "death_year": 1908}],
-      "languages": ["pt"],
-      "download_count": 1500
-    }
-  ]
-}
-📄 Licença
-MIT
-
-text
 
 ---
 
@@ -77,4 +60,3 @@ text
 2. **Foco técnico**: Detalha estrutura, configuração e fluxo de dados.
 3. **Tabelas organizadas**: Facilita a consulta rápida de funcionalidades.
 4. **Exemplo real**: Inclui um snippet do JSON da API para referência.
-
